@@ -14,3 +14,9 @@ CARRY = A
 
 Mean Relative error screenshot - ![MRE screenshot](screenshots/MEAN_RELATIVE_ERROR.png)
 
+Report Power screenshot - ![Power screenshot](screenshots/Report_Power_Screenshot.png)
+
+Report Utilisation screenshot - ![Utilization screenshot](screenshots/Report_Utilization_screenshot.png)
+
+Number of LUTs used - 12
+![no. of LUTS screenshot] - (screenshots/Number_Of_LUTs.png)
